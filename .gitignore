@@ -47,3 +47,4 @@ coverage/
 # MyPy
 .mypy_cache/
 .dmypy.json
+

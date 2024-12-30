@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables
+.env
+
+# Django stuff:
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Local virtual environments
+venv/
+env/
+.idea/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Node modules if frontend is integrated
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Testing outputs
+*.pytest_cache/
+coverage/
+
+# PyInstaller
+*.spec
+
+# MyPy
+.mypy_cache/
+.dmypy.json
